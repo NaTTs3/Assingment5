@@ -23,9 +23,5 @@ This project is a simple browser-based chess game implemented using **HTML**, **
 - **Click** on a highlighted square to move the piece.
 - The game automatically switches turns between White and Black.
 
-## Notes
-- Currently, only pawns have movement logic implemented.
-- You can extend the `Piece` subclasses to implement other chess pieces.
-
 ## License
 This project is free to use and modify for educational purposes.
